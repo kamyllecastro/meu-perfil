@@ -1,25 +1,42 @@
-First Site
+# 🌐 <Kamylle> — MEU PERFIL em React
 
-Este é um projeto simples com estrutura básica de HTML e CSS para criar um site inicial.
+Bem-vindo ao meu portfólio desenvolvido em **React**!  
+Este projeto tem como objetivo apresentar meu **perfil profissional**, **habilidades**, **experiências** e **projetos** de forma moderna e interativa.
 
-📌 Tecnologias Utilizadas
+---
 
-HTML5: Estrutura do site
+## 🧭 Sobre o Projeto
 
-CSS3: Estilização da página
+Este site foi criado para funcionar como uma **apresentação pessoal online**, destacando minhas principais qualificações e projetos.  
+Com ele, você pode conhecer um pouco mais sobre mim, meus objetivos e o que venho desenvolvendo no mundo da programação.
 
-🚀 Como Executar o Projeto
+---
 
-Clone este repositório:
+## 🚀 Tecnologias Utilizadas
 
-git clone https://github.com/SEU_USUARIO/firstsite.git
+O projeto foi construído com as seguintes ferramentas:
 
-Abra o arquivo index.html no navegador.
+- ⚛️ [React](https://react.dev/)
+- 💅 [Styled Components](https://styled-components.com/) ou [CSS Modules](https://create-react-app.dev/docs/adding-a-css-modules-stylesheet/)
+- 🔄 [React Router](https://reactrouter.com/)
+- 🧰 [Vite](https://vitejs.dev/) (para um ambiente de desenvolvimento rápido)
+- 🌐 Deploy: [Vercel](https://vercel.com/) ou [GitHub Pages](https://pages.github.com/)
 
-📌 Próximos Passos
+---
 
-Melhorar a responsividade com CSS Flexbox ou Grid.
+## 🛠️ Instalação e Execução
 
-Adicionar interatividade com JavaScript.
+Siga os passos abaixo para rodar o projeto localmente:
 
-Criar mais páginas para um site completo.
+```bash
+# Clone este repositório
+git clone https://github.com/<seu-usuario>/<nome-do-repositorio>.git
+
+# Acesse a pasta do projeto
+cd <nome-do-repositorio>
+
+# Instale as dependências
+npm install
+
+# Inicie o servidor de desenvolvimento
+npm run dev
